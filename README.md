@@ -46,7 +46,7 @@ The project proposes the following flow for implementation of this idea :
 The algorithm for the easy OCR is as follows : 
 
 Input: Bus image with route number pasted on it.
-Output: Recognised text that is number from the image
+ Output: Recognised text that is number from the image
 
 Stages of Initialization:
 
