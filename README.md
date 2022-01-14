@@ -60,6 +60,8 @@ Stages of Initialization:
    * Running if-else statement to find bus route
    * End
  
+ The following implementation yeilded 93.8% Accuracy on classification of Buses from non-Bus vehicles and 99.99% Accuracy in Optical Character Recognition.
+ 
  </div>
  
 [contributors-shield]: https://img.shields.io/github/contributors/DrCybernotix/Bus-Route-Detection-and-Classification.svg?style=for-the-badge
