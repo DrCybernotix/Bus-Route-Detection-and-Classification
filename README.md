@@ -23,8 +23,18 @@
  always liable and viable. This paper describes a novel approach for recognizing buses and providing the corresponding routes.  The bus images are captured in real-time, then 
  the token number is extracted and the user is informed about the route information. 
  
- </div>
 
+ 
+<a href="https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/blob/main/DemoImages/Picture1.png">
+    <img src="DemoImages/Picture1.png" alt="Flowchart of the Process">
+</a>
+
+<a href="https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/blob/main/DemoImages/Picture2.png">
+    <img src="DemoImages/Picture2.png" alt="Flowchart of the Process">
+</a>
+
+ </div>
+ 
 [contributors-shield]: https://img.shields.io/github/contributors/DrCybernotix/Bus-Route-Detection-and-Classification.svg?style=for-the-badge
 [contributors-url]: https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/DrCybernotix/Bus-Route-Detection-and-Classification.svg?style=for-the-badge
