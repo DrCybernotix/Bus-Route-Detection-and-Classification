@@ -14,6 +14,8 @@
  
  <div align="justify">
  
+ ## About the Project :
+ 
  Real-time object recognition and classification of objects through static data-frames is implemented in this work. This is a promising sector to implement innovative ideas
  related to computer vision applications. Visually impaired individuals undergo through difficult situations and complications faced while recognizing visual information as well
  as processing that information in a state of chaos, like a crowded area such as bus stop. Things get even harder for them when there is a need to step up and examine whether
@@ -22,6 +24,8 @@
  for the visually impaired people that will actually help them classify between buses specifically. The idea of personal help can be held under consideration but that is not 
  always liable and viable. This paper describes a novel approach for recognizing buses and providing the corresponding routes.  The bus images are captured in real-time, then 
  the token number is extracted and the user is informed about the route information. 
+ 
+ ## Flow of Implementation 
  
  <div align="center">
   
@@ -38,6 +42,9 @@ The project proposes the following flow for implementation of this idea :
 </a>
   
 </div>
+ 
+ ## Optical Character Recognition : 
+ 
  After the classification of buses we implemented EasyOCR for reading the token numbers any other alternate Optical Character Recognition algorithm can be used here but it is advised to go for EasyOCR as it is easier to implement and gives almost 100% accuracy in character recognition.
 
 
@@ -60,7 +67,19 @@ Stages of Initialization:
    * Running if-else statement to find bus route
    * End
  
- The following implementation yeilded 93.8% Accuracy on classification of Buses from non-Bus vehicles and 99.99% Accuracy in Optical Character Recognition.
+ ## Results 
+ 
+ The following implementation yeilded **93.8%** Accuracy on classification of Buses from non-Bus vehicles and **99.99%** Accuracy in Optical Character Recognition.
+ 
+ ## License
+
+Distributed under the CC0 License. See `LICENSE.txt` for more information.
+ 
+ ## Contact
+
+Twitter/Email - [@DrCybernotix](https://twitter.com/DrCybernotix) - 12shreyashh@gmail.com
+
+Project Link: [Bus-Route-Detection-and-Classification](https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification)
  
  </div>
  
