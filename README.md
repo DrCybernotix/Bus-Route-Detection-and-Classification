@@ -12,6 +12,22 @@
  
  </div>
  
+
+
+  <p align="center">
+    Bus Route Detector and Classifier for Visually Impaired People
+    <br />
+    <a href="https://github.com/Bus-Route-Detection-and-Classification/blob/main/README.md"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/Bus-Route-Detection-and-Classification/blob/main/README.md">View Demo</a>
+    ·
+    <a href="https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/issues">Request Feature</a>
+  </p>
+
+ 
  <div align="justify">
  
  ## About the Project :
