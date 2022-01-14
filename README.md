@@ -23,6 +23,8 @@
  always liable and viable. This paper describes a novel approach for recognizing buses and providing the corresponding routes.  The bus images are captured in real-time, then 
  the token number is extracted and the user is informed about the route information. 
  
+ <div align="center">
+  
 The project proposes the following flow for implementation of this idea : 
  
 <a href="https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/blob/main/DemoImages/Picture1.png">
@@ -34,7 +36,8 @@ The project proposes the following flow for implementation of this idea :
 <a href="https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/blob/main/DemoImages/Picture2.png">
     <img src="DemoImages/Picture2.png" alt="Flowchart of the Process">
 </a>
-
+  
+</div>
  After the classification of buses we implemented EasyOCR for reading the token numbers any other alternate Optical Character Recognition algorithm can be used here but it is advised to go for EasyOCR as it is easier to implement and gives almost 100% accuracy in character recognition.
 
 
