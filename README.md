@@ -23,16 +23,40 @@
  always liable and viable. This paper describes a novel approach for recognizing buses and providing the corresponding routes.  The bus images are captured in real-time, then 
  the token number is extracted and the user is informed about the route information. 
  
-
+The project proposes the following flow for implementation of this idea : 
  
 <a href="https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/blob/main/DemoImages/Picture1.png">
     <img src="DemoImages/Picture1.png" alt="Flowchart of the Process">
 </a>
 
+ Following is the flowchart for the back-end process which has been implemented :
+ 
 <a href="https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/blob/main/DemoImages/Picture2.png">
     <img src="DemoImages/Picture2.png" alt="Flowchart of the Process">
 </a>
 
+ After the classification of buses we implemented EasyOCR for reading the token numbers any other alternate Optical Character Recognition algorithm can be used here but it is advised to go for EasyOCR as it is easier to implement and gives almost 100% accuracy in character recognition.
+
+
+
+
+The algorithm for the easy OCR is as follows : 
+
+Input: Bus image with route number pasted on it.
+Output: Recognised text that is number from the image
+
+Stages of Initialization:
+
+   * Start 
+   * Convert RGB image to Grey image
+   * Apply bilateral filter for noise reduction
+   * Apply canny filter for edge detection 
+   * Finding contours
+   * Apply Masking
+   * Extracting text from the masked image using easy OCR
+   * Running if-else statement to find bus route
+   * End
+ 
  </div>
  
 [contributors-shield]: https://img.shields.io/github/contributors/DrCybernotix/Bus-Route-Detection-and-Classification.svg?style=for-the-badge
