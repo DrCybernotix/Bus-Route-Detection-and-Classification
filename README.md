@@ -72,13 +72,19 @@
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
+ 
+ <br>
 pip 
-  ```sh
+ ```sh
   python -m pip install --upgrade pip
-  ```
+ ```
 opencv-python
 ```sh
 pip install opencv-python
+```
+Dependencies 
+ ```sh
+pip install -r requirements.txt
 ```
  
  ## Flow of Implementation 
