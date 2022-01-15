@@ -72,15 +72,11 @@
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* pip 
+pip 
   ```sh
   python -m pip install --upgrade pip
   ```
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-* opencv-python
+opencv-python
 ```sh
 pip install opencv-python
 ```
