@@ -65,6 +65,26 @@
  always liable and viable. This paper describes a novel approach for recognizing buses and providing the corresponding routes.  The bus images are captured in real-time, then 
  the token number is extracted and the user is informed about the route information. 
  
+## Getting Started
+
+ This project can be setup locally by cloning the repo and installing the requirements.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* pip 
+  ```sh
+  python -m pip install --upgrade pip
+  ```
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+* opencv-python
+```sh
+pip install opencv-python
+```
+ 
  ## Flow of Implementation 
  
  <div align="center">
