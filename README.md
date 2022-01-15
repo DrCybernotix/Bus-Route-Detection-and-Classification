@@ -85,7 +85,7 @@ Stages of Initialization:
  
  ## Results 
  
- The following implementation yeilded **98.6%** Accuracy on classification of Buses from non-Bus vehicles and **99.99%** Accuracy in Optical Character Recognition.
+ The following implementation with TensorFlow yeilded **98.6%** Accuracy on classification of Buses from non-Bus vehicles and **99.99%** Accuracy in Optical Character Recognition.
  
  ## License
 
