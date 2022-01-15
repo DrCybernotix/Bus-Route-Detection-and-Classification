@@ -17,10 +17,10 @@
   <p align="center">
     Bus Route Detector and Classifier for Visually Impaired People
     <br />
-    <a href="https://github.com/Bus-Route-Detection-and-Classification/blob/main/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Bus-Route-Detection-and-Classification/blob/main/README.md">View Demo</a>
+    <a href="https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/blob/main/README.md">View Demo</a>
     ·
     <a href="https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/issues">Report Bug</a>
     ·
@@ -85,7 +85,7 @@ Stages of Initialization:
  
  ## Results 
  
- The following implementation yeilded **93.8%** Accuracy on classification of Buses from non-Bus vehicles and **99.99%** Accuracy in Optical Character Recognition.
+ The following implementation yeilded **98.6%** Accuracy on classification of Buses from non-Bus vehicles and **99.99%** Accuracy in Optical Character Recognition.
  
  ## License
 
