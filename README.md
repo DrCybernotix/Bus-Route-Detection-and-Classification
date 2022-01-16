@@ -17,14 +17,14 @@
   <p align="center">
     Bus Route Detector and Classifier for Visually Impaired People
     <br />
-    <a href="https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/blob/main/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/shr3yash/Bus-Route-Detection-and-Classification/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/blob/main/README.md">View Demo</a>
+    <a href="https://github.com/shr3yash/Bus-Route-Detection-and-Classification/blob/main/README.md">View Demo</a>
     ·
-    <a href="https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/issues">Report Bug</a>
+    <a href="https://github.com/shr3yash/Bus-Route-Detection-and-Classification/issues">Report Bug</a>
     ·
-    <a href="https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/issues">Request Feature</a>
+    <a href="https://github.com/shr3yash/Bus-Route-Detection-and-Classification/issues">Request Feature</a>
   </p>
 
  
@@ -148,16 +148,16 @@ Project Link: [Bus-Route-Detection-and-Classification](https://github.com/DrCybe
  
  </div>
  
-[contributors-shield]: https://img.shields.io/github/contributors/DrCybernotix/Bus-Route-Detection-and-Classification.svg?style=for-the-badge
-[contributors-url]: https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/DrCybernotix/Bus-Route-Detection-and-Classification.svg?style=for-the-badge
-[forks-url]: https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/network/members
-[stars-shield]: https://img.shields.io/github/stars/DrCybernotix/Bus-Route-Detection-and-Classification.svg?style=for-the-badge
-[stars-url]: https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/stargazers
-[issues-shield]: https://img.shields.io/github/issues/DrCybernotix/Bus-Route-Detection-and-Classification?style=for-the-badge
-[issues-url]: https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/issues
-[license-shield]: https://img.shields.io/github/license/DrCybernotix/Bus-Route-Detection-and-Classification.svg?style=for-the-badge
-[license-url]: https://github.com/DrCybernotix/Bus-Route-Detection-and-Classification/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/shr3yash/Bus-Route-Detection-and-Classification.svg?style=for-the-badge
+[contributors-url]: https://github.com/shr3yash/Bus-Route-Detection-and-Classification/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/shr3yash/Bus-Route-Detection-and-Classification.svg?style=for-the-badge
+[forks-url]: https://github.com/shr3yash/Bus-Route-Detection-and-Classification/network/members
+[stars-shield]: https://img.shields.io/github/stars/shr3yash/Bus-Route-Detection-and-Classification.svg?style=for-the-badge
+[stars-url]: https://github.com/shr3yash/Bus-Route-Detection-and-Classification/stargazers
+[issues-shield]: https://img.shields.io/github/issues/shr3yash/Bus-Route-Detection-and-Classification?style=for-the-badge
+[issues-url]: https://github.com/shr3yash/Bus-Route-Detection-and-Classification/issues
+[license-shield]: https://img.shields.io/github/license/shr3yash/Bus-Route-Detection-and-Classification.svg?style=for-the-badge
+[license-url]: https://github.com/shr3yash/Bus-Route-Detection-and-Classification/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://in.linkedin.com/in/shreyash-bhatkar-5bb904194
 [product-screenshot]: images/screenshot.png
