@@ -122,15 +122,15 @@ The algorithm for the easy OCR is as follows :
 
 Stages of Initialization:
 
-    Start 
-   * Convert RGB image to Grey image
-   * Apply bilateral filter for noise reduction
-   * Apply canny filter for edge detection 
-   * Finding contours
-   * Apply Masking
-   * Extracting text from the masked image using easy OCR
-   * Running if-else statement to find bus route
-    End
+   * Start 
+    * Convert RGB image to Grey image
+    * Apply bilateral filter for noise reduction
+    * Apply canny filter for edge detection 
+    * Finding contours
+    * Apply Masking
+    * Extracting text from the masked image using easy OCR
+    * Running if-else statement to find bus route
+   * End
  
  ## Results 
  
