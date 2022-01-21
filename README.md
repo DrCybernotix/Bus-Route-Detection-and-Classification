@@ -136,6 +136,13 @@ Stages of Initialization:
  
  The following implementation with TensorFlow yeilded **98.6%** Accuracy on classification of Buses from non-Bus vehicles and **99.99%** Accuracy in Optical Character Recognition.
  
+![image](https://user-images.githubusercontent.com/60093808/150591368-bbdf0b5f-aa36-466d-b9d7-2c76b5f90649.png=250x250) 
+![image](https://user-images.githubusercontent.com/60093808/150591426-cec2cb78-f4fb-4f35-a017-e8c1e47c87c2.png=250x250) 
+![image](https://user-images.githubusercontent.com/60093808/150591454-6c1aa74e-d7a5-42e2-b579-15c40cb7c149.png=250x250) 
+![image](https://user-images.githubusercontent.com/60093808/150591484-d53cbf55-d9db-4771-b93e-12283f618210.png=250x250) 
+![image](https://user-images.githubusercontent.com/60093808/150591513-22698ecc-3e4a-4875-bc6d-b0a82e887292.png=250x250)
+
+ Positive Classification Pre-Processing, then applying Canny Edge and Bilateral Filters Contour-Detection and Saving the cotour features. Output Number 
  ## License
 
 Distributed under the CC0 License. See `LICENSE.txt` for more information.
