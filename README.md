@@ -16,16 +16,22 @@
 
   <p align="center">
     Bus Route Detector and Classifier for Visually Impaired People
-    <br />
-    <a href="https://github.com/shr3yash/Bus-Route-Detection-and-Classification/blob/main/README.md"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/shr3yash/Bus-Route-Detection-and-Classification/blob/main/README.md">View Demo</a>
-    ·
-    <a href="https://github.com/shr3yash/Bus-Route-Detection-and-Classification/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/shr3yash/Bus-Route-Detection-and-Classification/issues">Request Feature</a>
-  </p>
+ 
+  ![image](https://user-images.githubusercontent.com/60093808/150657646-609d2f7a-e629-4c3b-8ae2-ecd70df448b9.png)
+ 
+  <br />
+
+<p align="center">
+  <a href="https://github.com/shr3yash/Bus-Route-Detection-and-Classification/blob/main/README.md"><strong>Explore the docs »</strong></a>
+  <br />
+  <br />
+  <a href="https://github.com/shr3yash/Bus-Route-Detection-and-Classification/blob/main/README.md">View Demo</a>
+  ·
+  <a href="https://github.com/shr3yash/Bus-Route-Detection-and-Classification/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/shr3yash/Bus-Route-Detection-and-Classification/issues">Request Feature</a>
+
+ </p>
 
  
  <div align="justify">
