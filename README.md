@@ -106,7 +106,7 @@ pip install -r requirements.txt
  ```sh
  pip install jupyter notebook
  ```
- then install the dependencies as mentioned in the [Prerequisites](prerequisites) section.
+ then install the dependencies as mentioned in the [Prerequisites](https://github.com/Shr3yash/Bus-Route-Detection-and-Classification/blob/main/README.md#prerequisites) section.
  
  ## Flow of Implementation 
  
