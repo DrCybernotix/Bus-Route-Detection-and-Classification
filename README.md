@@ -90,6 +90,24 @@ Dependencies
 pip install -r requirements.txt
 ```
  
+ ### JupyterNB implementation with Anaconda
+ 
+ 
+ Download Conda from [Here](https://www.anaconda.com/download/). 
+ Then create new conda environment if you donot have conda installed previously or have not set up the environment 
+ ```sh
+ conda create -n env pip python=3.10
+ ```
+ Activate the V-env by typing this command,
+ ```sh
+ conda activate env
+ ```
+ install jupyter notebook
+ ```sh
+ pip install jupyter notebook
+ ```
+ then install the dependencies as mentioned in the [Prerequisites](prerequisites) section.
+ 
  ## Flow of Implementation 
  
  <div align="center">
@@ -122,7 +140,7 @@ The algorithm for the easy OCR is as follows :
 
 Stages of Initialization:
 
-   * Start 
+Start 
    * Convert RGB image to Grey image
    * Apply bilateral filter for noise reduction
    * Apply canny filter for edge detection 
@@ -130,7 +148,8 @@ Stages of Initialization:
    * Apply Masking
    * Extracting text from the masked image using easy OCR
    * Running if-else statement to find bus route
-   * End
+ 
+End
  
  ## Results 
  
