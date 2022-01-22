@@ -1,1 +1,9 @@
 opencv-python
+matplotlib
+pillow
+numpy
+random
+imutils
+easyocr
+tensorflow
+sklearn
